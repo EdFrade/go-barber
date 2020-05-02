@@ -24,6 +24,6 @@ module.exports = {
     "no-param-reassign":"off",
     "camelcase":"off",
     //Somente variveis com o nome next podem ser inutilizadas
-    "no-unused-vars":["error",{"argsIgnorePattner": "next"}]
+    "no-unused-vars":["error",{"argsIgnorePattern": "next"}]
   },
 };
